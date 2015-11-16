@@ -1,0 +1,1 @@
+curl --data ingredient=1/2 teaspoon freshly ground black pepper http://localhost:4567/ingredients
